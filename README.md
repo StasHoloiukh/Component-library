@@ -33,6 +33,8 @@ Error:
 
 ![SidebarMenu](./component-library/src/assets/sidebarmenu.png)
 
+![SidebarMenuBasic](./component-library/src/assets/sidebarmenubasic.png)
+
 ---
 
 ## 📦 Installation
