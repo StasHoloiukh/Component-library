@@ -37,7 +37,7 @@ Error:
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Go to the project folder
